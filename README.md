@@ -1,1 +1,1 @@
-Quản Lý Sản Phẩm
+Quản Lý Doanh Thu Cửa Hàng
